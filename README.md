@@ -1,11 +1,11 @@
 # Netflix Data: Cleaning, Analysis and Visualization (Python)
 ## Description
 Netflix is a popular streaming service that offers a vast catalog of movies, TV shows, and original contents. The data consist of contents added to Netflix from2008 to2021. The oldest content is as old as 1925 and the newest as 2021. The purpose of this dataset is to test my data cleaning and visualization skills.
-- <a herf="https://github.com/nehajadhav-projects/Netflix_Data/blob/main/netflix1.csv">raw dataset</a>
+- <a href="https://github.com/nehajadhav-projects/Netflix_Data/blob/main/netflix1.csv">raw dataset</a>
 ## Project Objective
 The goal is to explore the dataset, derive insights, and prepare for potential tasks.
 ## Dataset used
-Netflix data
+- <a href="https://github.com/nehajadhav-projects/Netflix_Data/blob/main/Netflix.xlsx">Netflix dataset</a>
 ## Process
 -	Verify data for any missing values and anomalies and sort out the same.
 -	Made sure data is consistent and clean with respect to data type, data format and values used.
